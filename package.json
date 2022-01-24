@@ -1,0 +1,24 @@
+{
+  "name": "cypress-cucumber",
+  "version": "1.0.0",
+  "description": "Exemplo de uso do Cypress com cucumber  aplicado ao BDD",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "./node_modules/.bin/cypress open",
+    "cypress:run": "./node_modules/.bin/cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samucaguimaraes/cypress-cucumber.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samucaguimaraes/cypress-cucumber/issues"
+  },
+  "homepage": "https://github.com/samucaguimaraes/cypress-cucumber#readme",
+  "devDependencies": {
+    "cypress": "^9.3.1"
+  }
+}
